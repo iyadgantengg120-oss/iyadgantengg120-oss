@@ -49,11 +49,3 @@
 
 ### 📁 Featured Project - My Cisco Labs
 All my Cisco Packet Tracer labs are documented here:
-👉 **[iyadgantengg120-oss/cisco-labs](https://github.com/iyadgantengg120-oss/cisco-labs)**
-
-Latest Lab: [LAB01 - Smart Home IoT Network](https://github.com/iyadgantengg120-oss/cisco-labs/tree/main/LAB01-basic-config)
-
----
-
-### 📊 GitHub Stats
-![Iyad's GitHub stats](https://github-readme-stats.vercel.app/api?username=iyadgantengg120-oss&show_icons=true&theme=tokyonigh
