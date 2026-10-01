@@ -51,11 +51,9 @@
 All my Cisco Packet Tracer labs are documented here:
 👉 **[iyadgantengg120-oss/cisco-labs](https://github.com/iyadgantengg120-oss/cisco-labs)**
 
-Latest Lab: `LABS.01.pkt` - Basic Network Configuration
+Latest Lab: [LAB01 - Smart Home IoT Network](https://github.com/iyadgantengg120-oss/cisco-labs/tree/main/LAB01-basic-config)
 
 ---
 
 ### 📊 GitHub Stats
-![Iyad's GitHub stats](https://github-readme-stats.vercel.app/api?username=iyadgantengg120-oss&show_icons=true&theme=tokyonight)
-
-![Profile Views](https://komarev.com/ghpvc/?username=iyadgantengg120-oss&color=blue&style=flat)
+![Iyad's GitHub stats](https://github-readme-stats.vercel.app/api?username=iyadgantengg120-oss&show_icons=true&theme=tokyonigh
