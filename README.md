@@ -1,6 +1,6 @@
 # Hi, I'm M. Iyad Diya'ulhaq 👋
 
-### Informatics Engineering Student | Networking Enthusiast | Aspiring CCNA
+### Informatics Engineering Student | Networking Enthusiast | Preparing for CCNA 200-301
 
 ---
 
